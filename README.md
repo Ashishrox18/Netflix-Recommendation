@@ -132,19 +132,19 @@ print(recommend("Breaking Bad", n=5))
 ## Visuals
 
 ### Pivot Analysis
-![Pivot Analysis](visuals/01_pivot_analysis.png)
+![Pivot Analysis](01_pivot_analysis.png)
 
 ### Genre Distribution
-![Genre Distribution](visuals/02_genre_distribution.png)
+![Genre Distribution](02_genre_distribution.png)
 
 ### Feature Importance (GA + Random Forest)
-![Feature Importance](visuals/03_feature_importance.png)
+![Feature Importance](03_feature_importance.png)
 
 ### Confusion Matrix
-![Confusion Matrix](visuals/04_confusion_matrix.png)
+![Confusion Matrix](04_confusion_matrix.png)
 
 ### Trend Deep-Dive
-![Trend Deep-Dive](visuals/05_trend_deepdive.png)
+![Trend Deep-Dive](05_trend_deepdive.png)
 
 ---
 
