@@ -146,8 +146,8 @@ print(recommend("Breaking Bad", n=5))
 ### Trend Deep-Dive
 ![Trend Deep-Dive](05_trend_deepdive.png)
 
-### Trend Deep-Dive
-![Trend Deep-Dive](Screenshot_2026-06-17_120547.png)
+### Prize
+![Winner](Screenshot%202026-06-17%20120547.png)
 
 ---
 
