@@ -1,6 +1,6 @@
 # Netflix Content Strategy Analysis & Recommendation Engine
 
-> **1st Place — IMI Data Science Competition (250 participants)**
+> **1st Place — IMI Data Science Competition (500+ participants)**
 > Problem: Should Netflix pivot its content strategy, and how should it optimise recommendations?
 
 ---
