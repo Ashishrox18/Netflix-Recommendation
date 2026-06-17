@@ -148,7 +148,7 @@ print(recommend("Breaking Bad", n=5))
 
 ---
 ### Prize
-![Competition Winner](Screenshot 2026-06-17 120547.jpg)
+![Competition Winner](Screenshot 2026-06-17 120547.png)
 
 ## Tech Stack
 
